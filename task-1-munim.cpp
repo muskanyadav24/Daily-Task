@@ -17,3 +17,12 @@ int main(){
     }
     return 0;
 }
+
+
+// OUTPUT :-
+
+// Enter the money :- 275
+// 200 X 1
+// 50 X 1
+// 20 X 1
+// 5 X 1
