@@ -29,3 +29,17 @@ int main(){
   
   return 0;
 }
+
+// OUTPUT :-
+
+// Enter the positive integer number :- 122221
+// Number of digits :- 6
+// Sum of digits :- 10
+// Reverse of the number :- 122221
+// The number is a palindrome.
+
+// Enter the positive integer number :- 123456789
+// Number of digits :- 9
+// Sum of digits :- 45
+// Reverse of the number :- 987654321
+// The number is not a palindrome.
