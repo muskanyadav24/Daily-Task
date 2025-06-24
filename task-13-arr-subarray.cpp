@@ -31,3 +31,10 @@ int main(){
   return 0;
   
 }
+
+
+//OUTPUT:-
+
+//INPUT :array[] =[1,2,3,7,5]
+//Target :- 8
+//Ans :- [2,4]
