@@ -35,3 +35,11 @@ int main(){
   
   return 0;
 }
+
+
+// OUTPUT :- 
+
+// Enter the positive integer number :- 154623
+// The largest digit in the number is: 6
+// The largest digit is odd.
+
