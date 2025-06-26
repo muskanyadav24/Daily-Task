@@ -25,3 +25,11 @@ int main(){
   
   return 0;
 }
+
+
+//OUTPUT :- 
+
+// Enter the positive integer number :- 12
+// Factor number is 12 = 1 2 3 4 6 12 
+// Total number of factors :- 6
+// 12 Number is not prime.
