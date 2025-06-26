@@ -38,3 +38,16 @@ int main(){
   
   return 0;
 }
+
+//OUTPUT :-
+
+// Enter the size of array :- 5
+// Enter the array :
+// Array of [0] :- 1
+// Array of [1] :- 2
+// Array of [2] :- 3
+// Array of [3] :- 34
+// Array of [4] :- 5
+
+// Indices of prime numbers :- 1 2 4 
+// Sum of prime number :- 10
