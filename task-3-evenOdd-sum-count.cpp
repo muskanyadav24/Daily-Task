@@ -23,3 +23,21 @@ int main(){
   
   return 0;
 }
+
+//OUTPUT :-
+
+// Enter 10 integer number :- 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// 9
+// 10
+
+// Count of even number :- 5
+// Count of odd number :- 5
+// Sum of all even number :- 30
+// Sum of all odd number  :- 25
