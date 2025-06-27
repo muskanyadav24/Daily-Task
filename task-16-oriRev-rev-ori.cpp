@@ -21,3 +21,10 @@ int main(){
   
   return 0;
 }
+
+// OUTPUT :- 
+
+// Enter the positive number :- 1234
+// Input :- 1234
+// Reversed :- 4321
+// Difference :- 3087
