@@ -40,3 +40,11 @@ int main(){
   
   return 0;
 }
+
+// OUTPUT :- 
+
+// Enter a :- 1234
+// Entre b :- 567
+// Sum of digit of a :- 10
+// Sum of digit of b :- 18
+// If sum of digits of b is greater.
