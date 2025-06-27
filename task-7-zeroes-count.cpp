@@ -28,3 +28,9 @@ int main(){
   
   return 0;
 }
+
+
+// OUTPUT :- 
+
+// Enter a number :- 1020304050
+// Number of zeroes :- 5
