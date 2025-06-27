@@ -19,7 +19,7 @@ int main(){
 
   int size,target;
 
-  cout << "ENter the size of the array :- ";
+  cout << "Enter the size of the array :- ";
   cin >> size;
 
   int array[size];
@@ -40,3 +40,22 @@ int main(){
   
   return 0;
 }
+
+
+// OUTPUT :- 
+
+// Enter the size of the array :- 10
+// Enter 10 array elements :- 
+// Array of [0] :- 1
+// Array of [1] :- 2
+// Array of [2] :- 3
+// Array of [3] :- 1
+// Array of [4] :- 4
+// Array of [5] :- 5
+// Array of [6] :- 1
+// Array of [7] :- 6
+// Array of [8] :- 1
+// Array of [9] :- 7
+// Enter the number you want to find the frequency of :- 1
+// The freguency of 1 is :- 4
+
