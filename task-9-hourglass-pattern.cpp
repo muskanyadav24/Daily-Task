@@ -1,4 +1,6 @@
- // *                                      * 
+//Write a program to print the Rotated Hourglass pattern.
+
+// *                                      * 
  // *  *                                *  * 
  // *  *  *                          *  *  * 
  // *  *  *  *                    *  *  *  * 
