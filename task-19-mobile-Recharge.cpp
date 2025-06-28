@@ -6,13 +6,13 @@ int main(){
   int totalCustomers=0, totalCollection=0;
 
   do{
-    cout << "Press 1 for recharge 99 rupees." << endl;
+    cout << endl << "Press 1 for recharge 99 rupees." << endl;
     cout << "Press 2 for recharge 149 rupees." << endl;
     cout << "Press 3 for recharge 249 rupees." << endl;
     cout << "Press 4 for recharge 399 rupees." << endl;
     cout << "Press 0 for Exit." << endl;
 
-    cout << "Enter your choice." << endl;cout << "Press 1 for recharge 99 rupees." << endl;
+    cout << "Enter your choice :- ";
     cin >> choice;
 
     switch(choice){
@@ -50,6 +50,27 @@ int main(){
     
   }while(choice != 0);
 
+  int bestPlan,maxcnt;
+
+  if(cnt99 >= cnt149 && cnt99 >= cnt249 && cnt99 >= cnt399){
+    bestPlan = 99;
+    maxcnt = cnt99;
+  }else if(cnt149 >= cnt249 && cnt149 >= cnt399){
+    bestPlan = 149;
+    maxcnt = cnt149;
+  }else if(cnt249 >= cnt399){
+    bestPlan = 249;
+    maxcnt = cnt249;
+  }else{
+    bestPlan = 399;
+    maxcnt = cnt399;
+  }
+
+  if(maxcnt == 0){
+    cout << "No recharges today." << endl;
+  }else{
+    cout << "Most popular plan :- rupess " << bestPlan << "( " << maxcnt << "time )" << endl;
+  }
   
   
   return 0;
