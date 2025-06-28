@@ -1,1 +1,56 @@
+#include<iostream>
+using namespace std;
+int main(){
 
+  int cnt99=0,cnt149=0,cnt249=0,cnt399=0,choice;
+  int totalCustomers=0, totalCollection=0;
+
+  do{
+    cout << "Press 1 for recharge 99 rupees." << endl;
+    cout << "Press 2 for recharge 149 rupees." << endl;
+    cout << "Press 3 for recharge 249 rupees." << endl;
+    cout << "Press 4 for recharge 399 rupees." << endl;
+    cout << "Press 0 for Exit." << endl;
+
+    cout << "Enter your choice." << endl;cout << "Press 1 for recharge 99 rupees." << endl;
+    cin >> choice;
+
+    switch(choice){
+      case 1:
+        cnt99++;
+        totalCollection += 99;
+        totalCustomers++;
+        cout << "Recharge 99 rupess done." << endl;
+        break;
+      case 2:
+        cnt149++;
+        totalCollection += 149;
+        totalCustomers++;
+        cout << "Recharge 149 rupess done." << endl;
+        break;
+      case 3:
+        cnt249++;
+        totalCollection += 249;
+        totalCustomers++;
+        cout << "Recharge 249 rupess done." << endl;
+        break;
+      case 4:
+        cnt399++;
+        totalCollection += 399;
+        totalCustomers++;
+        cout << "Recharge 399 rupess done." << endl;
+        break;
+      case 0:
+        cout << "Exiting......" << endl;
+        break;
+      default:
+        cout << "Please enter a valid number..." << endl;
+        break;
+    }
+    
+  }while(choice != 0);
+
+  
+  
+  return 0;
+}
