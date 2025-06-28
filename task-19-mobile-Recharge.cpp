@@ -21,30 +21,36 @@ int main(){
         totalCollection += 99;
         totalCustomers++;
         cout << "Recharge 99 rupess done." << endl;
+        cout << "--------#--------" << endl;
         break;
       case 2:
         cnt149++;
         totalCollection += 149;
         totalCustomers++;
         cout << "Recharge 149 rupess done." << endl;
+        cout << "--------#--------" << endl;
         break;
       case 3:
         cnt249++;
         totalCollection += 249;
         totalCustomers++;
         cout << "Recharge 249 rupess done." << endl;
+        cout << "--------#--------" << endl;
         break;
       case 4:
         cnt399++;
         totalCollection += 399;
         totalCustomers++;
         cout << "Recharge 399 rupess done." << endl;
+        cout << "--------#--------" << endl;
         break;
       case 0:
         cout << "Exiting......" << endl;
+        cout << "--------#--------" << endl << endl;
         break;
       default:
         cout << "Please enter a valid number..." << endl;
+        cout << "--------#--------" << endl;
         break;
     }
     
@@ -75,3 +81,90 @@ int main(){
   
   return 0;
 }
+
+
+// OUTPUT :- 
+
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 1
+// Recharge 99 rupess done.
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 2
+// Recharge 149 rupess done.
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 1
+// Recharge 99 rupess done.
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 3
+// Recharge 249 rupess done.
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 1
+// Recharge 99 rupess done.
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 4
+// Recharge 399 rupess done.
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 7
+// Please enter a valid number...
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 1
+// Recharge 99 rupess done.
+// --------#--------
+
+// Press 1 for recharge 99 rupees.
+// Press 2 for recharge 149 rupees.
+// Press 3 for recharge 249 rupees.
+// Press 4 for recharge 399 rupees.
+// Press 0 for Exit.
+// Enter your choice :- 0
+// Exiting......
+// --------#--------
+// Most popular plan :- rupess 99( 4time )
+
