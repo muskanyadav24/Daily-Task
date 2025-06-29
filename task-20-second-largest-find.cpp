@@ -53,3 +53,14 @@ int main(){
   
   return 0;
 }
+
+// OUTPUT :-
+
+// Enter size of size :- 5
+// Enter 5 positive integers :- 
+// 1
+// 2
+// 8
+// 7
+// 6
+// Second largest distinct element is :- 7
