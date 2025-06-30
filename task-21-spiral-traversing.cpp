@@ -1,3 +1,5 @@
+// Spiral traversing.
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -53,3 +55,27 @@ int main(){
   
   return 0;
 }
+
+
+// OUTPUT :- 
+
+// Enter the matrix row size :- 4
+// Enter the matrix column size :- 4
+// Enter the matrix elements (16 values) :- 
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// 9
+// 10
+// 11
+// 12
+// 13
+// 14
+// 15
+// 16
+// Spiral order :- 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10 
