@@ -1,4 +1,4 @@
-C++ Programming Tasks - Challenges
+-> C++ Programming Tasks - Challenges
 
 📁 File Structure
 Each file is named as task-<number>-<description>.cpp indicating its task number and a short description.
@@ -27,9 +27,13 @@ Each file is named as task-<number>-<description>.cpp indicating its task number
 | Task 21     | Spiral matrix traversal                     |
 | Task 22     | Bug finder logic                            |
 
+
 💡 Purpose
 Ye repository mainly students ke liye helpful hai jo C++ seekh rahe hain aur logical thinking, conditional statements, loops, arrays, user-defined functions, etc. ke concepts ko practice karna chahte hain.
 
+
 📌 Author
+
 -> Name: Muskan Yadav
+
 -> GitHub: @muskanyadav24
