@@ -1,4 +1,4 @@
--> C++ Programming Tasks - Challenges
+## 🧩 C++ Programming Tasks - Challenges
 
 📁 File Structure
 Each file is named as task-<number>-<description>.cpp indicating its task number and a short description.
