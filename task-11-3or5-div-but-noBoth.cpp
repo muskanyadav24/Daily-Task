@@ -28,3 +28,17 @@ int main(){
 
   return 0;
 }
+
+// OUTPUT :- 
+
+// Enter start number :- 1
+// Enter end number :- 30
+// Numbers divisible by 3 or 5 but not both.
+// 3 
+// 6 
+// 9 
+// 12 
+// 18 
+// 21 
+// 24 
+// 27 
