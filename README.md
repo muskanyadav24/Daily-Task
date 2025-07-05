@@ -1,5 +1,13 @@
 ## 🧩 C++ Programming Tasks - Challenges
 
+## 💡 Purpose
+
+Ye repository mainly students ke liye helpful hai jo C++ seekh rahe hain aur logical thinking, conditional statements, loops, arrays, user-defined functions, etc. ke concepts ko practice karna chahte hain.
+
+## 🙏 Special Thanks
+
+I would like to express my heartfelt **thank you to my Sir [keyurgohil13]**, whose guidance and support made this entire task journey possible. His mentorship motivated me to stay consistent and focused.
+
 📁 File Structure
 Each file is named as task-<number>-<description>.cpp indicating its task number and a short description.
 | Task Number | Description                                 |
@@ -26,10 +34,6 @@ Each file is named as task-<number>-<description>.cpp indicating its task number
 | Task 20     | Second largest number finder                |
 | Task 21     | Spiral matrix traversal                     |
 | Task 22     | Bug finder logic                            |
-
-
-💡 Purpose
-Ye repository mainly students ke liye helpful hai jo C++ seekh rahe hain aur logical thinking, conditional statements, loops, arrays, user-defined functions, etc. ke concepts ko practice karna chahte hain.
 
 
 📌 Author
