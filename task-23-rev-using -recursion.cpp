@@ -23,7 +23,6 @@ int main(){
   return 0;
 }
 
-
 // OUTPUT :- 
 
 // Enter a number :- 12345
