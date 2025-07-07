@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 class RestaurantBill {
@@ -97,3 +96,49 @@ int main() {
 
     return 0;
 }
+
+// OUTPUT :- 
+
+// Enter number of customers: 1
+// Enter customer name: keyur
+
+// --- Menu ---
+// 1. Pasta (Rs. 120)
+// 2. Burger (Rs. 80)
+// 3. Pizza (Rs. 150)
+// 4. Finish Order
+// Enter your choice: 1
+// Enter quantity of Pasta: 1
+
+// --- Menu ---
+// 1. Pasta (Rs. 120)
+// 2. Burger (Rs. 80)
+// 3. Pizza (Rs. 150)
+// 4. Finish Order
+// Enter your choice: 2
+// Enter quantity of Burger: 2
+
+// --- Menu ---
+// 1. Pasta (Rs. 120)
+// 2. Burger (Rs. 80)
+// 3. Pizza (Rs. 150)
+// 4. Finish Order
+// Enter your choice: 3
+// Enter quantity of Pizza: 2
+
+// --- Menu ---
+// 1. Pasta (Rs. 120)
+// 2. Burger (Rs. 80)
+// 3. Pizza (Rs. 150)
+// 4. Finish Order
+// Enter your choice: 4
+// Finishing order...
+
+// Customer: keyur
+// Pasta X 1 : - 120 rupees
+// Burger X 2 : - 160 rupees
+// Pizza X 2 : - 300 rupees
+// Total : - 580 rupees
+
+// ----------- Day Summary -----------
+// Total collection :- 580 rupees
