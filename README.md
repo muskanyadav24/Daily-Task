@@ -10,6 +10,7 @@ I would like to express my heartfelt **thank you to my Sir [keyurgohil13]**, who
 
 📁 File Structure
 Each file is named as task-<number>-<description>.cpp indicating its task number and a short description.
+
 | Task Number | Description                                 |
 | ----------- | ------------------------------------------- |
 | Task 1      | Currency Denomination Breakdown                        |
@@ -34,6 +35,8 @@ Each file is named as task-<number>-<description>.cpp indicating its task number
 | Task 20     | Second largest number finder                |
 | Task 21     | Spiral matrix traversal                     |
 | Task 22     | Bug finder logic                            |
+| Task 26     | Palindrome Check                            |
+| Task 27     | Fibonacci Series using Recursion            |
 
 
 📌 Author
