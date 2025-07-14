@@ -35,6 +35,7 @@ Each file is named as task-<number>-<description>.cpp indicating its task number
 | Task 20     | Second largest number finder                |
 | Task 21     | Spiral matrix traversal                     |
 | Task 22     | Bug finder logic                            |
+| Task 23     | Reverse a number using recursion            |
 | Task 24     | Armstrong-num                               |
 | Task 25     | Restaurant-Biling                           |
 
