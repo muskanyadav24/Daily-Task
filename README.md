@@ -13,7 +13,7 @@ Each file is named as task-<number>-<description>.cpp indicating its task number
 
 | Task Number | Description                                 |
 | ----------- | ------------------------------------------- |
-| Task 1      | Currency Denomination Breakdown                        |
+| Task 1      | Currency Denomination Breakdown             |
 | Task 2      | Check if sum of two numbers is a palindrome |
 | Task 3      | Even and Odd sum using UDF                  |
 | Task 4      | Factorial and prime check                   |
@@ -35,8 +35,8 @@ Each file is named as task-<number>-<description>.cpp indicating its task number
 | Task 20     | Second largest number finder                |
 | Task 21     | Spiral matrix traversal                     |
 | Task 22     | Bug finder logic                            |
-| Task 26     | Palindrome Check                            |
-| Task 27     | Fibonacci Series using Recursion            |
+| Task 24     | Armstrong-num                               |
+| Task 25     | Restaurant-Biling                           |
 
 
 📌 Author
